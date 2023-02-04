@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi, I am Lissai! 
 
-<!--
-**LissaiDev/LissaiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### ✨ I am a fullstack web developer and Software Engineering student! 
 
-Here are some ideas to get you started:
+ ### 💻Visit my portfolio web page: Lissaidev.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ ### 📫 Reach me on LissaiDev@outlook.com 
+
+  
+
+  
+
+ ## 📊 Github Stats  
+
+    
+
+  <p><b>💻 Profile Stats</b></p> 
+
+  <br/> 
+
+    
+
+ <div align="center"> 
+
+    
+
+ ![LissaiDev GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LissaiDev&theme=dark) 
+
+  
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LissaiDev&langs_count=10&show_icons=true&theme=tokyonight&layout=compact) 
+
+  
+
+ </div>
+
