@@ -3,7 +3,7 @@
  ### ✨ I am a fullstack web developer and Software Engineering student! 
 
  ### 💻Visit my portfolio web page: Lissaidev.github.io
-## Tools i use:
+
 
 	
 
