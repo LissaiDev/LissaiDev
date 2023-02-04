@@ -4,14 +4,14 @@
 
  ### 💻Visit my portfolio web page: Lissaidev.github.io
 ## Tools i use:
-1 - Front-end Development 
+1. Front-end Development 
 	- HTML5 
 	- CSS3
 	- Bootstrap 
 	- JavaScript 
 	- JQuery
 	- React Js
-2 - Back-end Development 
+2. Back-end Development 
 	- Node Js
 	- Express
 	- EJS
@@ -19,6 +19,7 @@
 	- MongoDB
 	- Mongoose 
 	- Bcrypt
+	
 
  ### 📫 Reach me on LissaiDev@outlook.com 
 
